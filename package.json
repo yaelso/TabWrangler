@@ -4,7 +4,8 @@
   "description": "Group and collapse tabs to reduce clutter in your workspace.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "web-ext run"
   },
   "author": "Yael Echols",
   "license": "ISC",
