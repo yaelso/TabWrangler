@@ -1,0 +1,14 @@
+{
+  "name": "tabwrangler",
+  "version": "1.0.0",
+  "description": "Group and collapse tabs to reduce clutter in your workspace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yael Echols",
+  "license": "ISC",
+  "devDependencies": {
+    "web-ext": "^7.11.0"
+  }
+}
